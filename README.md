@@ -1,6 +1,6 @@
 Hey there! 👋
 
-I'm [James](https://www.linkedin.com/in/jameskhor03/), an AI student based in Malaysia.”
+I'm [James](https://www.linkedin.com/in/jameskhor03/), an AI student based in Malaysia.
 
 I'm deep into Artificial Intelligence, constantly chasing that moment where code turns into something actually *useful* (or at least cool enough to flex).
 
