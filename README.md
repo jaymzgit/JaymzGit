@@ -6,7 +6,7 @@ I'm deep into Artificial Intelligence, constantly chasing that moment where code
 
 If an idea sticks in my head long enough, there’s a high chance I’ll try to build it, whether it’s AI-related or a simple app to automate tasks and make things simpler for users!
 
-I’ve done competitions, built projects, and I’m stacking experience, but the real goal is bigger:
+I’ve done competitions, built projects but the goal stays the same:
 
 > Build AI-driven systems that actually *do something meaningful*
 
