@@ -14,5 +14,6 @@ I don’t just want to use AI. I want to understand it well enough to bend it.
 
 Fun Facts:
 - I've participated in Worldskills Malaysia 2023 for Web Design Technologies
+- Represented my varsity at Polyskills 2022 and got silver
 - I'm a big fan of Formula 1, K-Pop and gaming
 - I can debug for hours just to realize it was one dumb mistake
