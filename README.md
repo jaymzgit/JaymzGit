@@ -1,10 +1,18 @@
-[![An image of @jaymzgit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jaymzgit)](https://holopin.io/@jaymzgit)
-[![](https://img.shields.io/badge/-@JaymzGit-%23181717?style=flat-square&logo=github)](https://github.com/jaymzgit)
-## 📊 GitHub Stats:
-![James' GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jaymzgit&show_icons=true&theme=tokyonight&count_private=true)
-## 📚 Known Languages:
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jaymzgit&theme=tokyonight&layout=compact&hide=css,html,handlebars)
-## 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=jaymzgit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-##
-![](https://komarev.com/ghpvc/?username=JaymzGit)
+Hey there! 👋
+
+I'm [James](https://www.linkedin.com/in/jameskhor03/), an AI student based in Malaysia.”
+
+I'm deep into Artificial Intelligence, constantly chasing that moment where code turns into something actually *useful* (or at least cool enough to flex).
+
+If an idea sticks in my head long enough, there’s a high chance I’ll try to build it, whether it’s AI-related or a simple app to automate tasks and make things simpler for users!
+
+I’ve done competitions, built projects, and I’m stacking experience, but the real goal is bigger:
+
+> Build AI-driven systems that actually *do something meaningful*
+
+I don’t just want to use AI. I want to understand it well enough to bend it.
+
+Fun Facts:
+- I've participated in Worldskills Malaysia 2023 for Web Design Technologies
+- I'm a big fan of Formula 1, K-Pop and gaming
+- I can debug for hours just to realize it was one dumb mistake
