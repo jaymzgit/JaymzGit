@@ -16,9 +16,10 @@ Leadership & Competitions:
 - UTeM AI Club Exco: Led hands-on Machine Learning workshop and organized national Minecraft Build Competition for Karnival ICT 2026 under Majlis Bandaraya Melaka Bersejarah (MBMB).
 
 Core Stack:
-- AI / Vision: PyTorch, TensorFlow, YOLO, OpenCV, MediaPipe, Scikit-learn, LangChain,
-- Languages & Frameworks: Python, React Native, C++, PHP, SQL, Tailwind CSS  
-- Developer Tools: Linux, Docker, Tailscale, HuggingFace, FastAPI, Git/GitHub, ESP32, n8n
+-	Machine Learning & AI: PyTorch, TensorFlow, Scikit-learn, YOLO, OpenCV, MediaPipe, LangChain, MCP, RAG, HuggingFace
+-	Data: Pandas, NumPy, SQL, Power BI, Feature Engineering
+-	Programming: Python, Java, C++, PHP, SQL, HTML/CSS, Android Studio, Tailwind CSS, REST APIs, Firebase, WordPress
+-	Tools & Platforms: GitHub, Linux, Docker, Tailscale, FastAPI, Kaggle, Jupyter Notebook, n8n, ESP32, MATLAB, Claude Code
 
 Fun Facts:
 - I'm a big fan of Formula 1, K-Pop and gaming
