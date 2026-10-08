@@ -13,7 +13,7 @@ Leadership & Competitions:
 - iDRIVE 2024 UTHM: Gold Award for E-Koperasi Digital Makeover (FYP Project)
 - WorldSkills Malaysia Belia 2023: 4th Place in Web Technologies.
 - PolySkills 2022: Silver Medalist for Web Development and Design @ Politeknik Mersing.
-- UTeM AI Club Exco: Led hands-on Machine Learning workshop and organized national Minecraft Build Competition for Karnival ICT 2026 under Majlis Bandaraya Melaka Bersejarah (MBMB).
+- UTeM FAIX Artificial Intelligence Club (AIC) Exco: Led hands-on Machine Learning workshop and organized national Minecraft Build Competition for Karnival ICT 2026 under Majlis Bandaraya Melaka Bersejarah (MBMB).
 
 Core Stack:
 -	Machine Learning & AI: PyTorch, TensorFlow, Scikit-learn, YOLO, OpenCV, MediaPipe, LangChain, MCP, RAG, HuggingFace
